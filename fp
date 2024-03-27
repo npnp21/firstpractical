@@ -2,8 +2,8 @@ this is my first practical
 in which i perfom  tasks like  creating repository ,made clone of repository , apply online and offline changes using git bash or website.
 
 I used commands ,
-git config --global user.name AniketDhangar //1
-git congig --global user.email 21aniketdhangar13@gmail.com //step2
+git config --global user.name Nehapatil //1
+git congig --global user.email nehapatil21092001@gmail.com //step2
 git config --list
 git status // before commit
 git init //initialize repository
